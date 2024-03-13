@@ -1,6 +1,6 @@
 ## Evaluation at the Forefront
 
-The mission is to bring sustainable, well-maintained safety and evaluation practices to AI practitioners to ensure that we know what our powerful AI systems are capable of.
+We are an independent research group working mainly based on funding + any revenue we create. The mission is to bring sustainable, well-maintained safety and evaluation practices to AI practitioners to ensure that we know what our powerful AI systems are capable of.
 
 ## Research Artifacts
 ### Tools
